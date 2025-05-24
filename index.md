@@ -3,7 +3,7 @@ layout: home
 title: Welcome
 ---
 
-I am a scientist in the [Marine Turtle Research and Conservation Group] (https://marineturtleresearch.com) with over two decades of experience in sea turtle conservation projects across Brazil and the United States.
+I am a scientist in the [Marine Turtle Research and Conservation Group](https://marineturtleresearch.com) with over two decades of experience in sea turtle conservation projects across Brazil and the United States.
 
 I offer specialized services in:
 
