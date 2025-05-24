@@ -4,3 +4,10 @@ email: armando_barsante@msn.com
 description: >-
   Biologist focused on the conservation of wildlife and ecological systems.
 theme: minima
+
+# NEW: navigation links (menu)
+minima:
+  navigation:
+    - title: "Welcome"
+      url: "/"
+    - title:
