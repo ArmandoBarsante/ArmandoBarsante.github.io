@@ -8,4 +8,4 @@ permalink: /cv/
 
 📄 [Download my CV (PDF)](cv_armando.pdf)
 
-<embed src="cv_armando.pdf" type="application/pdf" width="100%" height="800px" />
+<iframe src="https://docs.google.com/viewer?url=https://armandobarsante.github.io/cv_armando.pdf&embedded=true" width="100%" height="800px" style="border: none;"></iframe>
