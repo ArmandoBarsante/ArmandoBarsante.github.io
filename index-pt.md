@@ -1,4 +1,3 @@
-# Consultoria em Conservação de Tartarugas Marinhas
 
 Sou cientista do grupo Marine Turtle Research and Conservation, com mais de duas décadas de experiência em projetos de conservação de tartarugas marinhas no Brasil e nos Estados Unidos.
 
