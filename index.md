@@ -20,4 +20,4 @@ I offer specialized services in:
 - Science communication and community outreach
 
   
-I have led and collaborated on conservation projects involving multiple sea turtle species, including the design, implementation, analysis, and publication. By applying a wide array of spatial ecology tools — including Bayesian modeling and dive behavior analysis — my work aims to better understand how human-induced pressures impact habitat use and to inform targeted mitigation efforts.
+I have led and collaborated on conservation projects involving multiple sea turtle species, encompassing the design, implementation, analysis, and publication of findings. By applying a wide array of spatial ecology tools, my work aims to better understand how human-induced pressures affect habitat use and to inform targeted mitigation efforts.
