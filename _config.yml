@@ -8,5 +8,5 @@ theme: minima
 header_pages:
   - index.md
   - cv.md
-  - index-pt.md
-  - cv-pt.md
+ # - index-pt.md #
+#  - cv-pt.md #
