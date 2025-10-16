@@ -22,6 +22,6 @@ Services
 - Decision support & communication: Technical/scientific reports; maps and dashboards; stakeholder engagement and outreach.
 
   
-I have led and collaborated on multi-species conservation projects from study design through publication. By applying a broad spatial-ecology toolkit, my work focus on how human pressures impact habitat use and delivers targeted, actionable mitigation guidance.
+I have led and collaborated on multi-species conservation projects from study design through publication. By applying a broad spatial-ecology toolkit, my work focus on how human pressures impact species habitat use and delivers targeted, actionable mitigation guidance.
 
 
