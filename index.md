@@ -11,7 +11,7 @@ title: Welcome
 </p>
 
 
-I’m a collaborative conservation scientist translating satellite telemetry and risk modeling into management-ready decisions for wildlife, with an emphasis on marine megafauna. I partner with universities, NGOs, and agencies across the globe to co-produce actionable science and clear map-based products. Fluent in Portuguese and English. Currently a postdoctoral researcher at Florida State University working with the [Marine Turtle Research and Conservation Group](https://marineturtleresearch.com) with 20+ years of sea turtle conservation experience in Brazil and more recently in the United States. I help teams with study design, modeling, and communicating results that matter for management.
+I’m a collaborative conservation scientist translating satellite telemetry and risk modeling into management-ready decisions for wildlife, with an emphasis on marine megafauna. I partner with universities, NGOs, and agencies across the globe to co-produce actionable science and clear map-based products. Fluent in Portuguese and English; conversatinonal Spanish. Currently a postdoctoral researcher at Florida State University working with the [Marine Turtle Research and Conservation Group](https://marineturtleresearch.com) with 20+ years of sea turtle conservation experience in Brazil and more recently in the United States. I help teams with study design, modeling, and communicating results that matter for management.
 
 Services
 - Tracking & data: Satellite tagging (Argos or GPS), data processing, and quality control.
