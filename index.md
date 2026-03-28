@@ -16,7 +16,7 @@ I’m a collaborative conservation scientist translating satellite telemetry and
 Services
 - Tracking & data: Satellite tagging (Argos or GPS), data processing, and quality control.
 - Spatial ecology: Habitat-use and behavior modeling; home-range estimation via autocorrelated kernel density estimation (AKDE) and dynamic Brownian bridge movement models (dBBMM); identification of migratory corridors and critical habitats.
-- Risk & impact: Spatial overlap with vessel activity with detections via Automatic Identification System (AIS) and Sentinel-2, fisheries, seismic surveys and other pressures; mitigation scenario testing; environmental impact assessment (EIA) support.
+- Risk & impact: Spatial overlap with vessel activity using detections via Automatic Identification System (AIS) and Sentinel-2, fisheries, seismic surveys and other pressures; mitigation scenario testing; environmental impact assessment (EIA) support.
 - Quantitative modeling: Generalized linear mixed models (GLMM), generalized additive models (GAM), state-space and movement models; abundance and population estimation.
 - Fieldwork & permitting: Study design and protocols; permits and compliance; drone-based wildlife surveys.
 - Decision support & communication: Technical/scientific reports; maps and dashboards; stakeholder engagement and outreach.
